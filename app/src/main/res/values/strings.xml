@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labtoolbar</string>
+
+    <string-array name="categoria">
+
+        <item>Comida rapida</item>
+        <item>Ensalada</item>
+        <item>Bebida</item>
+        <item>Postres</item>
+
+    </string-array>
+
+    <string name="create_order_title">Crear oferta</string>
+
+</resources>
